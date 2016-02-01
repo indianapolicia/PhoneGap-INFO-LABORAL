@@ -2,7 +2,7 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.SistemaSolar"
+        id          = "cat.numancia.SistemaSolar_sfpastor"
         versionCode = "27" 
         version     = "1.0.27" >
 	
@@ -10,14 +10,14 @@
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
 
-    <name>El Sistema Solar</name>
+    <name>El Sistema Solar  indianapolicia  </name>
 
    <description>
-       Aplicació phonegap del salumnes de 4t info Curs 2015 2016. El Sistema Solar.
+       El Sistema Solar x indianapolicia
     </description>
 
-    <author href="https://numancia.cat/intranet" email="s">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="sfpastor2000@gmail.com">
+       indianapolicia
     </author>
 
 	<content src="index.html"/>
